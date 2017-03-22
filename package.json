@@ -1,0 +1,30 @@
+{
+  "name": "conicyt-wso2-appgen",
+  "version": "1.0.0",
+  "description": "Script desarrollado para cargar crear de forma automática las aplicaciones en WSO2",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://mvillafane@bitbucket.org/conicytdev/conicyt-wso2-keygen.git"
+  },
+  "keywords": [
+    "conicyt",
+    "wso2",
+    "key",
+    "gen"
+  ],
+  "author": "Manuel Villafañe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://bitbucket.org/conicytdev/conicyt-wso2-keygen/overview"
+  },
+  "homepage": "https://bitbucket.org/conicytdev/conicyt-wso2-keygen/overview",
+  "dependencies": {
+    "async": "^2.1.5",
+    "json-parser": "^1.1.5",
+    "request": "^2.79.0"
+  }
+}

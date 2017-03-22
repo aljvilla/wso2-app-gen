@@ -1,0 +1,1 @@
+exports.Client = require('./../lib/wso2Config')
